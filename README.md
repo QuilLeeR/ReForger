@@ -21,21 +21,21 @@ The app is under active development. Compatibility and authoring features may ch
 
 ### Overview
 
-![ReForger overview](https://imgur.com/UoAgLEy)
+![ReForger overview](https://i.imgur.com/UoAgLEy.png)
 
 ### Install and Use Mods
 
-![Install a mod](Assets/Documentation/docs-install-mod.png)
+![Install a mod](https://imgur.com/nsE0E42.png)
 
-![Use a mod](Assets/Documentation/docs-use-mod.png)
+![Use a mod](https://imgur.com/ukK6JQ2.png)
 
 ### Patch Editor
 
-![Patch editor](Assets/Documentation/docs-patch-editor.png)
+![Patch editor](https://imgur.com/xCLFZA3.png)
 
 ### Choice Sets
 
-![Choice Sets](Assets/Documentation/docs-choice-sets.png)
+![Choice Sets](https://imgur.com/lCheXWX.png)
 
 ## Project Status
 
@@ -52,21 +52,7 @@ and test mods carefully before sharing them.
 The app is a single-project MSIX WinUI 3 application. Running the unpackaged `.exe` directly may fail
 because WinUI depends on the Windows App SDK runtime registration.
 
-## Build
-
-Restore and build from the repository root:
-
-```powershell
-dotnet build ReForger.csproj -p:Platform=x64
-```
-
-Supported platforms are `x86`, `x64`, and `ARM64`.
-
-## Documentation
-
-- [Implementation notes](docs/IMPLEMENTACION.md)
-- [RFGB format](docs/RFGB-Format.md)
-- [Release notes](RELEASE_NOTES.md)
+Supported platforms are `x64`
 
 ## Repository Layout
 
