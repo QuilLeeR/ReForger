@@ -21,7 +21,7 @@ The app is under active development. Compatibility and authoring features may ch
 
 ### Overview
 
-![ReForger overview](Assets/Documentation/docs-overview.png)
+![ReForger overview](https://imgur.com/UoAgLEy)
 
 ### Install and Use Mods
 
