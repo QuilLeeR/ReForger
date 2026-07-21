@@ -17,26 +17,6 @@ The app is under active development. Compatibility and authoring features may ch
 - Package protected RFGB mods with device-bound, time-limited installation support.
 - Browse and inspect game forge data through the built-in explorer and texture viewer.
 
-## Screenshots
-
-### Overview
-
-![ReForger overview](https://i.imgur.com/UoAgLEy.png)
-
-### Install and Use Mods
-
-![Install a mod](https://imgur.com/nsE0E42.png)
-
-![Use a mod](https://imgur.com/ukK6JQ2.png)
-
-### Patch Editor
-
-![Patch editor](https://imgur.com/xCLFZA3.png)
-
-### Choice Sets
-
-![Choice Sets](https://imgur.com/lCheXWX.png)
-
 ## Project Status
 
 ReForger is experimental software for mod authors and advanced users. Always keep backups of game files
