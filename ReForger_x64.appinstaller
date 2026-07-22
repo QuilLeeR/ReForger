@@ -6,7 +6,7 @@
 		Name="ReForger"
 		Version="1.0.0.0"
 		Publisher="CN=QuilLeeR"
-		Uri="https://quilleer.github.io/ReForger/releases/tag/ReForger_1.0.0.0_x64/ReForger_1.0.0.0_x64.msix"
+		Uri="https://github.com/QuilLeeR/ReForger/releases/download/ReForger_1.0.0.0_x64/ReForger_1.0.0.0_x64.msix"
 		ProcessorArchitecture="x64" />
 	<UpdateSettings>
 		<OnLaunch
