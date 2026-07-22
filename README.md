@@ -1,4 +1,4 @@
-# ReForger (soon)
+# ReForger
 
 ReForger is a WinUI 3 / .NET 8 desktop tool for creating, editing, installing, and reverting mods for
 **Assassin's Creed Shadows**. It focuses on the game's Anvil Pipeline v42 `.forge` containers and uses
