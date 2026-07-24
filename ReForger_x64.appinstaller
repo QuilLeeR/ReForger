@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
 	Uri="https://quilleer.github.io/ReForger/ReForger_x64.appinstaller"
-	Version="1.0.0.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	Version="1.0.1.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainPackage
 		Name="ReForger"
-		Version="1.0.0.0"
+		Version="1.0.1.0"
 		Publisher="CN=QuilLeeR"
-		Uri="https://github.com/QuilLeeR/ReForger/releases/download/ReForger_1.0.0.0_x64/ReForger_1.0.0.0_x64.msix"
+		Uri="https://github.com/QuilLeeR/ReForger/releases/download/ReForger_1.0.1.0_x64/ReForger_1.0.1.0_x64.msix"
 		ProcessorArchitecture="x64" />
 	<UpdateSettings>
 		<OnLaunch
