@@ -1,3 +1,4 @@
+* Mod store downloads are now free for everyone, so everyone can download mods directly from ReForger.
 * Liquid glass has been implemented in certain areas of the app.
 * Bar rounding has been improved.
 * A page back/forward bar has been implemented.
