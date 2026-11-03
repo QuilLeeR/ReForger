@@ -1,11 +1,10 @@
-* Fixed an issue where some patches were not shown, which left patches missing.
-* Fixed an issue in the Builder where, in some cases, the models were not rendered on the GPU.
-* Improved the speed of direct mod downloads.
-* Added installation to different drives, both for manual installs and for installs from the mod Shop.
-* Redesigned every mod page in the Shop.
-* Fixed a white flash when closing the tool.
-* Improved how a .pbsetup loads inside the Builder.
-* Optimized loading when opening mods.
-* Added a version indicator to installed mods.
-* Added a release notes section to every mod page in the Shop.
-* Added a logging system that records crashes inside the game (it has not been tested yet, so we will see how it goes once a user sends one in).
+* Liquid glass has been implemented in certain areas of the app.
+* Bar rounding has been improved.
+* A page back/forward bar has been implemented.
+* Many aspects of the mod store have been changed, including the mod publishing feature.
+* A mod publishing schedule has been added and has its own section on the homepage.
+* A new loading view has been added to the builder.
+* Normal maps in the builder have been improved, along with shadows. When a patch is in the applying or unapplying state, the tool cannot be closed.
+* The appearance of the code editor has been modified. Now, to view patch information, simply click the "i" button to see all its details, such as the selected item, its image, description, etc.
+* The forced game closure from the tool has been improved; previously, it waited for confirmation, but now it terminates the process immediately.
+
